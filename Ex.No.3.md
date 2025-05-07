@@ -162,8 +162,9 @@ Upload to GitHub Pages for free hosting.
 
 
 ## OUTPUT
-![Uploading Screenshot 2025-05-06 231158.png…]()
 
+
+![Screenshot 2025-05-06 231158](https://github.com/user-attachments/assets/277aacd8-40d6-4f24-8bb3-7d8918bdd674)
 
 
 ## RESULT
